@@ -1,5 +1,5 @@
 # usdebates
-U.S. Presidential Debates R Package
+U.S. Presidential Debates *R* Package (data-only)
 
 **A WORK IN PROGESS**
 Built by: (mostly) [Alan Jordan](https://github.com/alanjordan101) and [Eduardo Flores](https://github.com/Eflores89).
